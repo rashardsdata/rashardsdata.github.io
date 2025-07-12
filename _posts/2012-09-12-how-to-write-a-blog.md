@@ -1,10 +1,17 @@
 ---
 layout: post
 title:  "Jez like Mars"
-published: false
+published: true
 ---
 
+[Oaktown's 3.5.7 - Yeah Yeah Yeah (Video)](https://www.youtube.com/watch?v=Tu2xJR2yOUk)
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Oaktown%27s_357_-_Yeah_Yeah_Yeah_single_cover.jpg" alt="undefined"/>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tu2xJR2yOUk?si=2EjUEK5ZaOIaU5_d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Yeah! Yeah! Yeah! (Oaktown's 357 song)](https://en.wikipedia.org/wiki/Yeah!_Yeah!_Yeah!_(Oaktown%27s_357_song)) [Wiki:TALK](https://en.wikipedia.org/wiki/Talk:Yeah!_Yeah!_Yeah!_(Oaktown%27s_357_song))
+'
+<img width="318" height="314" alt="image" src="https://github.com/user-attachments/assets/2144cba4-7af1-49bf-a301-a3b9de9cd83f" />
 
 **Hello world**, this is my first Jekyll blog post.
 
