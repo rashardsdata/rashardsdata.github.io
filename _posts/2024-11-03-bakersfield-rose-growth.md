@@ -4,6 +4,17 @@ title:  "BAKERSFiELD"
 published: true
 image: wasco_ast_2011191_lrg.jpg
 ---
+
+
+[Oaktown's 3.5.7 - Yeah Yeah Yeah (Video)](https://www.youtube.com/watch?v=Tu2xJR2yOUk)
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Oaktown%27s_357_-_Yeah_Yeah_Yeah_single_cover.jpg" alt="undefined"/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tu2xJR2yOUk?si=2EjUEK5ZaOIaU5_d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Yeah! Yeah! Yeah! (Oaktown's 357 song)](https://en.wikipedia.org/wiki/Yeah!_Yeah!_Yeah!_(Oaktown%27s_357_song)) [Wiki:TALK](https://en.wikipedia.org/wiki/Talk:Yeah!_Yeah!_Yeah!_(Oaktown%27s_357_song))
+'
+<img width="318" height="314" alt="image" src="https://github.com/user-attachments/assets/2144cba4-7af1-49bf-a301-a3b9de9cd83f" />
+
 [Liquid reference](https://shopify.dev/docs/api/liquid) Liquid is a template language created by Shopify. It's available as [an open source project on GitHub](https://github.com/ThakaRashard/liquid), and is used by many different software projects and [companies](https://www.nasa.gov/international-space-station/).
 [Comments in GitHub flavour of Markdown](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9)
 >[TryingThis](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9?permalink_comment_id=3450152#gistcomment-3450152)
