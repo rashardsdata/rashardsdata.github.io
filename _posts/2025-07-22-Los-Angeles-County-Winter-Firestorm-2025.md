@@ -56,7 +56,9 @@ image: PribicevicU_PALiSADES_LAMBOBurning.PNG
 <img src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_992x274_/public/2022-12/52538848189_f852a5947e_o.jpg.webp?itok=MTOI3GWmg" alt="KAren Bass"/> 
 
 <img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/40000/40110/lafires_ali_2009246_swir.jpg" alt="2009"/> 
-
+ <img src="https://www.thebattery.org/wp-content/uploads/2018/02/2.-hand.jpg" alt="" />
+        <img src="https://obamawhitehouse.archives.gov/sites/default/files/image/image_file/jb_gilded_liberty_1_e.jpg" alt="Free Feet?" />
+    
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">📸 Kandidat za 🌐 fotografiju godine 2️⃣0️⃣2️⃣5️⃣.<a href="https://twitter.com/hashtag/photooftheyear?src=hash&amp;ref_src=twsrc%5Etfw">#photooftheyear</a> <a href="https://twitter.com/hashtag/picoftheyear?src=hash&amp;ref_src=twsrc%5Etfw">#picoftheyear</a> <a href="https://twitter.com/hashtag/wildfires?src=hash&amp;ref_src=twsrc%5Etfw">#wildfires</a> <a href="https://twitter.com/hashtag/California?src=hash&amp;ref_src=twsrc%5Etfw">#California</a> <a href="https://twitter.com/hashtag/USA?src=hash&amp;ref_src=twsrc%5Etfw">#USA</a> <a href="https://twitter.com/hashtag/palisadesfires?src=hash&amp;ref_src=twsrc%5Etfw">#palisadesfires</a> <a href="https://twitter.com/hashtag/LosAngelesFire?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngelesFire</a> <a href="https://t.co/6TMNyi8RQP">pic.twitter.com/6TMNyi8RQP</a></p>&mdash; Uroš Pribićević 🇷🇸 (@PribicevicU) <a href="https://twitter.com/PribicevicU/status/1878539382887428451?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
