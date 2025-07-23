@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weather"
+title:  "CurrentlyCompiling"
 published: true
 image: PribicevicU_PALiSADES_LAMBOBurning.PNG
 ---
