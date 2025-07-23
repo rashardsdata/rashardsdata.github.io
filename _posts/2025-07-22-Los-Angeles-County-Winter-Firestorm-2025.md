@@ -5,7 +5,25 @@ published: true
 image: PribicevicU_PALiSADES_LAMBOBurning.PNG
 ---
 
+Burn Scar Imagery (MODIS/VIIRS) for California Wildfires January 2025 [NASADiSASTERPORTAL](https://disasters-nasa.hub.arcgis.com/) [PACE](https://pace.gsfc.nasa.gov/)
+[Live animatable MAp](https://maps.disasters.nasa.gov/arcgis/home/webmap/viewer.html?webmap=9c0499a0cefc40e58c577e0ddcc80f1e#) 
+<img alt="image" src="https://github.com/user-attachments/assets/5a801839-f62e-4b18-a403-cd0387305ca8" />
 
+<video controls  width="auto" height="400">
+   <source src="https://ia801808.us.archive.org/33/items/1newsstndupdate-simple-scan-station-20250721144640/VID_20250722_160312.mp4" type="video/mp4" />
+
+  <source src="https://ia801808.us.archive.org/33/items/1newsstndupdate-simple-scan-station-20250721144640/VID_20250722_160312.mp4" type="video/mp4" />
+
+
+</video>
+
+<video controls  width="auto" height="400">
+   <source src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4" type="video/mp4" />
+
+  <source src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4" type="video/mp4" />
+
+
+</video>
 
 
 ### wildfire @noaa [@nasa](https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Dear%20Team%20at%20Nasa%20Mars.pdf) @stateofcalifornia @cityoflosangeles @nasa-jpl [@newshour](https://dn721308.ca.archive.org/0/items/1newsstndupdate-simple-scan-station-20250721144640/1newsstndupdateSimpleScanStation20250721144640.pdf)  [@nasa-jpl @cityoflosangeles :: LosAngelesCountyFireDAtA on @nasa-jpl rashardGDS.github.io](https://rashardgds.github.io/rashardmro/2025/03/29/Los-Angeles-County-Fire_Data.html)
@@ -49,6 +67,13 @@ image: PribicevicU_PALiSADES_LAMBOBurning.PNG
 <img alt="image" src="https://github.com/user-attachments/assets/78b3b9ce-0ff7-4c19-8bfa-6bb542c55391" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/7c8a5f94-5efa-4ba0-894e-e35ba58b4cec" />
+
+[DAMS + CHLOROPHYLL @nasa-jpl @NOAAgov](https://www.facebook.com/photo.php?fbid=716737181151773&set=p.716737181151773&type=3)
+[fb @cityoflosangeles](https://www.facebook.com/photo.php?fbid=716737181151773&set=p.716737181151773&type=3)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6067215d-76a6-4871-9d8b-7a0f6b469f5a" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/692db506-0b7e-4170-b9a2-e4f279674a0d" />
 
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:14gJtxoOvHwVbrjwtr6x5A/789733577929768960/v2" data-did="35bd1f1ccbb1c7268e2d4f8f2138776763c07365"  ><a href="https://www.tumblr.com/santamonicashaadi/789733577929768960/palisadesfire-jan7">https://www.tumblr.com/santamonicashaadi/789733577929768960/palisadesfire-jan7</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
