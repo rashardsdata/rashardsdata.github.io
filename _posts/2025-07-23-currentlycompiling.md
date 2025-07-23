@@ -2,7 +2,7 @@
 layout: post
 title:  "CurrentlyCompiling"
 published: true
-image: PribicevicU_PALiSADES_LAMBOBurning.PNG
+image: Gie8QTPbYAQf4LX.png
 ---
 
 
