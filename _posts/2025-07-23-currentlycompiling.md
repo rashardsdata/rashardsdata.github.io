@@ -5,6 +5,7 @@ published: true
 image: Gie8QTPbYAQf4LX.png
 ---
 
+[Los Angeles Fire TryptycH](https://maps.disasters.nasa.gov/arcgis/apps/dashboards/57bc276c7cd34cd59674a55bce89be0c) @nasa-jpl
 
 # The View from the Top 
 A new composite image built from 15 satellite passes shows the Arctic and northern latitudes as you have never seen them before. 
