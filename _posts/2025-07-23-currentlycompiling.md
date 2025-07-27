@@ -5,6 +5,11 @@ published: true
 image: Gie8QTPbYAQf4LX.png
 ---
 
+# caLifornia_linux : : CLAUSES_STATE, BasicFreedoms + fireData Delivery
+<iframe src="https://archive.org/embed/california_constitution_2019-20_0" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/scre-californiaLinux_firedatadelivery" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 [https://rashard-ecostress-jpl-iss.github.io/compiling/Atlanta](https://rashard-ecostress-jpl-iss.github.io/compiling/Atlanta)
 [Los Angeles Fire TryptycH](https://maps.disasters.nasa.gov/arcgis/apps/dashboards/57bc276c7cd34cd59674a55bce89be0c) @nasa-jpl
 
