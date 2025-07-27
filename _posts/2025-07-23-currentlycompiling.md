@@ -5,6 +5,7 @@ published: true
 image: Gie8QTPbYAQf4LX.png
 ---
 
+[https://rashard-ecostress-jpl-iss.github.io/compiling/Atlanta](https://rashard-ecostress-jpl-iss.github.io/compiling/Atlanta)
 [Los Angeles Fire TryptycH](https://maps.disasters.nasa.gov/arcgis/apps/dashboards/57bc276c7cd34cd59674a55bce89be0c) @nasa-jpl
 
 # The View from the Top 
