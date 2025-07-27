@@ -5,6 +5,9 @@ published: true
 image: Gie8QTPbYAQf4LX.png
 ---
 
+[@tesla Protest](https://ia801008.us.archive.org/35/items/vid-20250726-184935/VID_20250726_184935.mp4) @nasa @nasa-jpl
+
+
 # caLifornia_linux : : CLAUSES_STATE, BasicFreedoms + fireData Delivery [California Constitution - CONS ](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&tocTitle=+California+Constitution+-+CONS)
 <iframe src="https://archive.org/embed/california_constitution_2019-20_0" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe src="https://archive.org/embed/scre-californiaLinux_firedatadelivery" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
