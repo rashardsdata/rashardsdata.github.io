@@ -7,6 +7,8 @@
 
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
 
+<img  alt="image Jupiter Notebook Exercise" src="https://github.com/user-attachments/assets/8c0f80cb-1e52-451a-b4d1-8908316b83d0" />
+[alt="image Jupiter Notebook Exercise" https://hub.2i2c.mybinder.org/user/thakarashard-vitals-2f447yax/lab/tree/community_contributed/NEON_EMIT/01_Finding_Co-located_NEON_EMIT_Data_NIWO.ipynb](https://hub.2i2c.mybinder.org/user/thakarashard-vitals-2f447yax/lab/tree/community_contributed/NEON_EMIT/01_Finding_Co-located_NEON_EMIT_Data_NIWO.ipynb)
 
 ![Perservere](https://science.nasa.gov/wp-content/uploads/2024/03/1065.gif)
 ![PioNeer10](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pioneer_10_-_Pioneer_11_-_mission_patch_-_Pioneer_patch.png) 
