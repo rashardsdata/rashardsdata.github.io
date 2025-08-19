@@ -7,7 +7,10 @@
 
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
 
-<img  alt="image Jupiter Notebook Exercise" src="https://github.com/user-attachments/assets/8c0f80cb-1e52-451a-b4d1-8908316b83d0" />
+<img  alt="image Jupiter Notebook Exercise" src="https://github.com/user-attachments/assets/8c0f80cb-1e52-451a-b4d1-8908316b83d0" />.
+AV320230705t202435_002_L1B_RDN
+<img width="344" height="538" alt="Untitled" src="https://github.com/user-attachments/assets/7d807b04-8e2b-4085-8184-52002baa953c" />
+
 [alt="image Jupiter Notebook Exercise" https://hub.2i2c.mybinder.org/user/thakarashard-vitals-2f447yax/lab/tree/community_contributed/NEON_EMIT/01_Finding_Co-located_NEON_EMIT_Data_NIWO.ipynb](https://hub.2i2c.mybinder.org/user/thakarashard-vitals-2f447yax/lab/tree/community_contributed/NEON_EMIT/01_Finding_Co-located_NEON_EMIT_Data_NIWO.ipynb)
 
 ![Perservere](https://science.nasa.gov/wp-content/uploads/2024/03/1065.gif)
