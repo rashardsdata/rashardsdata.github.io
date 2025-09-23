@@ -19,6 +19,17 @@ somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](h
 Datastore = `https://e4ftl01.cr.usgs.gov/WORKING/BRWS` @usgs
 pg VNIR, TIR, SWIR
 
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-1' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 [Observing in Infrared @nasa earthobservatory](https://earthobservatory.nasa.gov/features/FalseColor/page5.php)
 Near infrared (NIR) :: [short-wave-infrared](https://ntrs.nasa.gov/citations/19930066375)
