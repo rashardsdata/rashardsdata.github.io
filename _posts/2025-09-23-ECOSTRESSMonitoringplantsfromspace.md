@@ -5,7 +5,7 @@ published: true
 title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
-somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
+somafm [SPaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
@@ -34,7 +34,7 @@ pg VNIR, TIR, SWIR
 [Observing in Infrared @nasa earthobservatory](https://earthobservatory.nasa.gov/features/FalseColor/page5.php)
 Near infrared (NIR) :: [short-wave-infrared](https://ntrs.nasa.gov/citations/19930066375)
 
-
+[ECOSTRESS Tutorial FILTERING FOR GOOD IMAGES  ecostress@nasa-jpl.gov](https://ecostress.jpl.nasa.gov/downloads/tutorials/Filtering_for_Good_Images.pdf)
 ![Clouds @stateofcalifornia @cityoflosangeles possibly @nasa-jpl @nasa-pds @blackgirlscode](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.09.12/AST_L1T_00309112025050312_20250912121357_2266792_BR.4.QA.jpg)
 
 pg-BR1A0000-2025091201_005_003.1.VNIR
