@@ -7,6 +7,9 @@ image: 0102619orig.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+
+[OPERA _ NETCDF](https://github.com/rashardsdata/netcdf4-python/tree/master/examples) [testfile](https://search.earthdata.nasa.gov/search/granules?p=C3294057315-ASF!C3294057315-ASF&pg[1][a]=3499177483!3499177482!3499177484!3499177485!ASF&pg[1][v]=t&pg[1][gsk]=-start_date&q=%22OPERA%22&circle[0]=-118.07521%2C33.98122%2C105802&tl=1613385994.317!4!!&lat=33.881460000000004&long=-117.73924548891786&zoom=8.486798121812377) [ARCHiVE]() 
 ### Resources 
 [Accessing Data for the World's Water with SWOT](https://www.earthdata.nasa.gov/learn/webinars/accessing-data-worlds-water-swot)
 [Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic) /// [SWOT Data Access Workshop July 2024](https://youtu.be/7qqiUqR43_8)
@@ -26,7 +29,7 @@ Since im Learning The Satellites that provide the dataproducts ill start on this
 # California_Linux : RiverDataLosAngeles
 Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
 by [RashardKelly](https://archive.org/search?query=creator%3A%22RashardKelly%22) - on [GiTHub](https://rashardiman.github.io/)
-
+https://archive.org/download/RashardNasaEarthDataRiverWatch/LOSANGELESCOUNTY___OPERA_L3_DISP-S1_IW_F18904_VV_20240701T135248Z_20241122T135247Z_v1.0_20250418T055222Z.nc
 <iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [@usgs Water Dashboard]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.30456%2C34.08195%2C-117.64538%2C34.33777%5D&view=%7B%22basemap%22%3A%22CartoDarkmatter2%22%2C%22bounds%22%3A%22-118.30455780029298%2C34.08195280002996%2C-117.64537811279298%2C34.337766445056666%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) 
