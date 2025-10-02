@@ -9,7 +9,14 @@ author: "RashardKelly @nasa-jpl"
 
 
 
-[OPERA _ NETCDF](https://github.com/rashardsdata/netcdf4-python/tree/master/examples) [testfile](https://search.earthdata.nasa.gov/search/granules?p=C3294057315-ASF!C3294057315-ASF&pg[1][a]=3499177483!3499177482!3499177484!3499177485!ASF&pg[1][v]=t&pg[1][gsk]=-start_date&q=%22OPERA%22&circle[0]=-118.07521%2C33.98122%2C105802&tl=1613385994.317!4!!&lat=33.881460000000004&long=-117.73924548891786&zoom=8.486798121812377) [ARCHiVE]() 
+[FireData](https://thakarashard.github.io/compiling/The-2025-Los-Angeles-Fires)
+[EarthDataSearch Los Angeles LandSisplacement search NETCDF](https://search.earthdata.nasa.gov/search/granules?p=C3294057315-ASF!C3294057315-ASF&pg[1][a]=3499177483!3499177482!3499177484!3499177485!ASF&pg[1][v]=t&pg[1][gsk]=-start_date&q=%22OPERA%22&circle[0]=-118.07521%2C33.98122%2C105802&tl=1613385994.317!4!!&lat=33.881460000000004&long=-117.73924548891786&zoom=8.486798121812377) [OPERA _ NETCDF] [.nc File : ARCHiVE - LOSANGELESCOUNTY___OPERA_L3_DISP-S1_IW @cityoflosangeles @stateofcalifornia @emit-sds 20250418T055222](https://archive.org/download/RashardNasaEarthDataRiverWatch/LOSANGELESCOUNTY___OPERA_L3_DISP-S1_IW_F18904_VV_20240701T135248Z_20241122T135247Z_v1.0_20250418T055222Z.nc)  [NETCDF4PYTHON on GiTHUB](https://github.com/rashardsdata/netcdf4-python/tree/master/examples) 
+
+
+[STS-51G](https://www.nasa.gov/mission/sts-51g/?utm_source=FBPAGE&utm_medium=NASA+History&utm_campaign=NASASocial&linkId=831332746&fbclid=IwY2xjawNL5MNleHRuA2FlbQIxMABicmlkETBKYXBhZUswcENuOGh2OWlFAR7jVfjZ3iNFzd-1hil5KEAS6CV7r-Bb50RpKX_yUBhFsCWeU9smNZZDSkyF8g_aem_hacADFlWZmROW5wzGpXk1A)
+
+![Deployment](https://upload.wikimedia.org/wikipedia/commons/b/b1/STS-61-B_SATCOM_Ku-2_deployment.jpg)
+
 ### Resources 
 [Accessing Data for the World's Water with SWOT](https://www.earthdata.nasa.gov/learn/webinars/accessing-data-worlds-water-swot)
 [Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic) /// [SWOT Data Access Workshop July 2024](https://youtu.be/7qqiUqR43_8)
