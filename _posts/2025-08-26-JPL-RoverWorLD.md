@@ -7,6 +7,11 @@ image: ESP_062216_2660_RGB.NOMAP.browse.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+<img   alt="image" src="https://github.com/user-attachments/assets/ed7303dd-c22c-42c9-ae84-2133abf68faf" />
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1346261026848828%2F&show_text=false&width=357&t=0" width="357" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<img   alt="image @nasa-pds @nasa-develop @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/f0acfdf7-87a4-48b3-8b2d-fbf6f3340825" />
 
 # Mars Exploration Rovers: Spirit and Opportunity
 
