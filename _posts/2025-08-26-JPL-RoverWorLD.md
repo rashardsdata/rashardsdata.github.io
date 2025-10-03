@@ -10,7 +10,8 @@ author: "RashardKelly @nasa-jpl"
 [DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
 <object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
 
-[SOL4518 @nasa-jpl @nasa-pds @podaac @usgs @blackgirlscode @newshour](https://ia800800.us.archive.org/24/items/RashardNasaEarthDataRiverWatch/Sol4518.gif)
+## [SOL4518]
+[DOWNLOAD @nasa-jpl @nasa-pds @podaac @usgs @blackgirlscode @newshour](https://ia800800.us.archive.org/24/items/RashardNasaEarthDataRiverWatch/Sol4518.gif)
 <img alt="image" src="https://github.com/user-attachments/assets/75b71010-6d76-4737-a0ba-8bd86f714ec9" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/ed7303dd-c22c-42c9-ae84-2133abf68faf" />
