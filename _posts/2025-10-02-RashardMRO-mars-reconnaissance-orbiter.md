@@ -37,6 +37,86 @@ Image Credit: NASA/JPL-Caltech
 [Full text of "The book of Mars"](https://archive.org/stream/bookofmars00glas/bookofmars00glas_djvu.txt)
 
 
+Mars Books
+The Mars project
+by Von Braun, Wernher, 1912-1977
+[archive](https://archive.org/details/marsproject0000vonb)
+--
+The scientific exploration of Mars
+by Taylor, F. W
+[archive](https://archive.org/details/scientificexplor0000tayl)
+--
+Mars
+by Bova, Ben, 1932-
+[archive](https://archive.org/details/mars0000bova_g8b1/page/n7/mode/2up)
+
+[The Problem Of Space Travel - Herman Noordung](https://www.nasa.gov/wp-content/uploads/2023/03/sp-4026.pdf**)**
+
+
+multi media 
+[Red Planet Mars 1952 colorized](https://archive.org/details/red-planet-mars)
+[The Martian 2015](https://archive.org/download/the.-martian.-2015.-extended.-1080p.-brrip.x-264.-aac-etrg/The.Martian.2015.EXTENDED.1080p.BRRip.x264.AAC-ETRG.mp4) [DailyMotion](https://www.dailymotion.com/video/x9a9n1g)
+[Dune 2000 ps1](https://archive.org/details/psx_dune2000) - [Max Fleischer](https://archive.org/details/1925-03-16-the-monster-1925)'s atrip to Mars [.mp4](https://archive.org/download/1925-03-16-the-monster-1925/Out%20of%20the%20Inkwell%20-%20Trip%20to%20Mars%20%5BRed%20Seal%3B%204-1-24%5D.mp4) - [imdb](https://www.imdb.com/title/tt0015431/)
+![PDS_GEOCiENCES](https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg)
+
+# NEWS @foxnews @newshour @datadesk @blackgirlscode @nasa-jpl 
+![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+[Ingenuity Mars Helicopter](https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/)
+
+<iframe width="650" height="315" src="https://www.youtube.com/embed/-StZggK4hhA?si=0F-e2yrdWl4NqDET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Perseverance Rover Updates - science.nasa.gov](https://science.nasa.gov/mission/mars-2020-perseverance/science-updates/)
+@nasa-jpl @cityoflosangeles @stateofcalifornia @nasa @nasa-pds thx for sharing the event @blackgirlscode :: @usgs idk how many of u were informed @noaagov
+
+
+<img alt="https://rashardmro.tumblr.com/post/794336911814770688/nasajunocam-normanikordei-normanikordeiofficial" src="https://github.com/user-attachments/assets/794b021b-1c49-4677-959d-81de15a8fefb" />
+
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/794336911814770688" data-did="e94b3120246c27ee555c9442c268fb9af424cfe8"><a href="https://rashardmro.tumblr.com/post/794336911814770688/nasajunocam-normanikordei-normanikordeiofficial">https://rashardmro.tumblr.com/post/794336911814770688/nasajunocam-normanikordei-normanikordeiofficial</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7bcd9fd7-3a80-4209-94a6-0a68ba68df43" />
+
+
+[PERSEVERANCE RAW IMAGES](https://mars.nasa.gov/mars2020/multimedia/raw-images/)
+[NASA to Share Details of New Perseverance Mars Rover Finding - nasa.gov](https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding/) [NASA’s Perseverance Mars Rover Spots Bizarre Helmet-Shaped Rock and Mysterious Megaripples](https://scitechdaily.com/nasas-perseverance-mars-rover-spots-bizarre-helmet-shaped-rock-and-mysterious-megaripples/) [Sampling Mars: Geologic Context and Preliminary Characterization of Samples Collected by the NASA Mars 2020 Perseverance Rover Mission](https://astrobiology.com/2025/01/sampling-mars-geologic-context-and-preliminary-characterization-of-samples-collected-by-the-nasa-mars-2020-perseverance-rover-mission.html) [Mars 2020 and ExoMars](https://www.dlr.de/en/wr/research-transfer/projects/planetary-research/mars-2020-and-exomars) [Perseverance Rover’s Descent and Touchdown on Mars](https://www.youtube.com/watch?v=4czjS9h4Fpg)
+
+[_@Tesla Diner Revolts_](https://thakarashard.github.io/rashardmro/2025/09/07/tesla.html)
+
+![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+[image atlas @nasa-pds](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*) + [BETA](https://pds-imaging.jpl.nasa.gov/beta/search) + [PDS_BUNDLES](https://pds-imaging.jpl.nasa.gov/volumes/) [Mars Reconnaissance Orbiter Online Data Volumes](https://pds-imaging.jpl.nasa.gov/volumes/mro.html)
+ 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1215546463&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/sets/sounds-from-mars" title="Perseverance Rover Sounds from Mars" target="_blank" style="color: #cccccc; text-decoration: none;">Perseverance Rover Sounds from Mars</a></div>
+
+### Perseverance Meets the Megabreccia
+ [By Henry Manelski](https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/)
+
+ <img  alt="image" src="https://github.com/user-attachments/assets/6d486dba-adbc-45bd-a82f-cd602a57c362" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6a88ebef-4db7-4e6c-84d4-b9f383702c66" />
+
+ <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid029FCma2T3BsVYBhYG2dqjTwm8P2Jgsm7f6g1Db3UV6jDrrkJhzW2kPBvj8ZnvFxuWl%26id%3D100084464911565&show_text=true&width=500" width="500" height="469" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+ 
+
+What rashard has been up to @nasa @nasa-jpl @cityoflosangeles
+Compiling . . . 
+ [Rashard WildFire Data from aviris](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html) && [ECOSTRESS:Monitoring plants from space](https://rashardgds.github.io/2025/09/03/ECOSTRESSMonitoringplantsfromspace.html)
+
+
+<iframe src="https://archive.org/embed/n-02-e-016.-srtmgl-1.2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+# Martian Gothic: Unification
+Martian Gothic: Unification is a 2000 survival horror video game developed by Creative Reality for Microsoft Windows and Coyote Developments for the PlayStation and published by TalonSoft for [Microsoft Windows](https://www.myabandonware.com/game/martian-gothic-unification-dso) and Take-Two Interactive for the PlayStation. It takes place on a Martian base in the year 2019 [Wiki](https://en.wikipedia.org/wiki/Martian_Gothic:_Unification) [gog.com](https://www.gog.com/dreamlist/game/martian-gothic-unification-2000) [zombs-lair](https://www.zombs-lair.com/martian-gothic-unification)
+<img  alt="image" src="https://github.com/user-attachments/assets/42714e05-1259-43d0-9c4b-706712cbc972" />
+<img   alt="image" src="https://github.com/user-attachments/assets/2a2ba694-d66c-4f86-a866-770ce8a1c70e" />
+<img  alt="image" src="https://github.com/user-attachments/assets/342221c6-ca46-4310-808c-4a536647bfd5" />
+<img  alt="image" src="https://github.com/user-attachments/assets/34d39e8b-7c91-4ab6-991f-fab6ca851764" />
+<iframe src="https://archive.org/embed/psx_martgoth" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Mars Reconnaissance Orbiter Online Data Volumes](https://pds-imaging.jpl.nasa.gov/volumes/mro/release74.html?fbclid=IwY2xjawMtw-VleHRuA2FlbQIxMABicmlkETBWTmhuRlRsbHpxeERUdndrAR4q23qRijdODYOfnJ4ds1ORx7RU7wPAMrjyq2SCou3G1KKTU2febTUdBYzwKg_aem_-ZIH5n63FtjS1i_7_cmOaw) 
+
 [Markdownify includes #1303](https://github.com/jekyll/jekyll/issues/1303)
 - What we usually do is a capture block - [ParkeR Moore](https://github.com/parkr) [@parkr]
 
