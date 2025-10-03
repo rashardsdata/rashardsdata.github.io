@@ -3,6 +3,12 @@ layout: post
 title:  "Welcome to Jekyll!"
 published: false
 ---
+
+
+[STREAM @cityoflosangeles @stateofcalifornia](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=14.25/-13157151.83/3995908.59&layers=aqv_chla_20250929_sentinel:1.00:0.00:30.00,aqv_chla_20250917_sentinel:1.00:0.00:30.00,aqv_chla_20251001_sentinel:1.00:0.00:30.00,aqv_chla_20251002_sentinel:1.00:0.00:30.00)
+
+<img  alt="image @blackgirlscode @datadesk" src="https://github.com/user-attachments/assets/c815f55b-9448-45b1-8798-547febee51c4" />
+
 [Worldview Snapshots](https://wvs.earthdata.nasa.gov/?LAYERS=VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1,VIIRS_SNPP_Thermal_Anomalies_375m_Day,Reference_Features_15m&CRS=EPSG:4326&COORDINATES=-90.000000,-180.000000,90.000000,180.000000&FORMAT=image/jpeg&AUTOSCALE=TRUE&RESOLUTION=10km) 4 Ersi [ArcGis](https://firms.modaps.eosdis.nasa.gov/satellite-imagery/)
 # Welcome
 
