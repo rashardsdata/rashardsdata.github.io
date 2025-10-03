@@ -6,78 +6,6 @@ image: Mars_Perseverance_NLF_1318_0783952370_633ECM_N0612534NCAM13318_01_195J.pn
 ---
 
 
-# California Linux: DeepSpaceNet,uptime, LEarning About Northrop
-[Documenting system uptime in Linux](https://www.redhat.com/en/blog/system-uptime-linux) @nasa-jpl @redhatofficial @cityoflosangeles @ajc [CourseWork](https://www.jpl.nasa.gov/go/parts-engineering-school/programs/curriculum/)
-<iframe src="https://archive.org/embed/screen-recording-2025-07-09-122807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[Worldview Snapshots](https://wvs.earthdata.nasa.gov/?LAYERS=VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1,VIIRS_SNPP_Thermal_Anomalies_375m_Day,Reference_Features_15m&CRS=EPSG:4326&COORDINATES=-90.000000,-180.000000,90.000000,180.000000&FORMAT=image/jpeg&AUTOSCALE=TRUE&RESOLUTION=10km) 4 Ersi [ArcGis](https://firms.modaps.eosdis.nasa.gov/satellite-imagery/)
-
-[NASA
-Work Breakdown
-Structure (WBS)
-Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf)
-
-
-# What is Load Average in Linux?
-- [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
-  ![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
-
-@nasa-jpl @podaac
-last night's flyover
-<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
-https://novalauncher.com/
-D[ownload the latest Beta APK](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public)
-
-
-[Oaktown's 3.5.7 - Yeah Yeah Yeah (Video)](https://www.youtube.com/watch?v=Tu2xJR2yOUk)
-<img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Oaktown%27s_357_-_Yeah_Yeah_Yeah_single_cover.jpg" alt="undefined"/>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tu2xJR2yOUk?si=2EjUEK5ZaOIaU5_d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Yeah! Yeah! Yeah! (Oaktown's 357 song)](https://en.wikipedia.org/wiki/Yeah!_Yeah!_Yeah!_(Oaktown%27s_357_song)) [Wiki:TALK](https://en.wikipedia.org/wiki/Talk:Yeah!_Yeah!_Yeah!_(Oaktown%27s_357_song))
-'
-<img width="318" height="314" alt="image" src="https://github.com/user-attachments/assets/2144cba4-7af1-49bf-a301-a3b9de9cd83f" />
-
-
-# California Linux: DeepSpaceNet,uptime, LEarning About Northrop
-[Documenting system uptime in Linux](https://www.redhat.com/en/blog/system-uptime-linux) @nasa-jpl @redhatofficial @cityoflosangeles @ajc [CourseWork](https://www.jpl.nasa.gov/go/parts-engineering-school/programs/curriculum/)
-<iframe src="https://archive.org/embed/screen-recording-2025-07-09-122807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[NASA
-Work Breakdown
-Structure (WBS)
-Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf)
-
-
-# What is Load Average in Linux?
-- [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
-  ![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
-
-@nasa-jpl @podaac
-last night's flyover
-<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
-https://novalauncher.com/
-D[ownload the latest Beta APK](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public)
-
-
-```css
-
-.ic {
-  filter: contrast(200%); }
-```
-<style>
-  .ic {
-  filter: contrast(200%); }
-</style>  
-<img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" />
-
-
 # Mars Reconnaissance Orbiter 
 >Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
 ## 6.1 Mission Overview
@@ -93,19 +21,6 @@ aerobraking, in preparation for the “science mission” starting in November
 participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
-### The Red Planet Mars
-An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
-<video controls preload="none" 
-  src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
-  poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
-
-
-![todaynov4](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01318/ids/edr/browse/ncam/NLF_1318_0783952370_633ECM_N0612534NCAM13318_01_195J01_1200.jpg)
 
 ## Mars Perseverance Sol 1317: Front Right Hazard Avoidance Camera (Hazcam)
 NASA's Mars Perseverance rover acquired this image of the area in front of it using its onboard Front Right Hazard Avoidance Camera A.
@@ -159,6 +74,19 @@ You told me to study the weather on mars ... [The Last Report](https://www.msss.
 [MRO MARCI WEATHER REPORT FOR THE WEEK OF 10 JANUARY 2022 – 16 JANUARY 2022](https://www.msss.com/msss_images/2022/01/19/)
 
 
+### The Red Planet Mars
+An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
+<video controls preload="none" 
+  src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
+  poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+![todaynov4](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01318/ids/edr/browse/ncam/NLF_1318_0783952370_633ECM_N0612534NCAM13318_01_195J01_1200.jpg)
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
 <video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
@@ -1383,6 +1311,78 @@ Super Mario World 2 Yoshis Island plays differently than any other Mario game. Y
 ![SMW2Yi](https://cdn2.steamgriddb.com/logo_thumb/e8de67aac98d923eb372575f30568a89.png)
 ![MARiOWorLD2](https://theexchange.com/cdn/shop/products/SuperMarioWorld2-Yoshi_sIsland_USA.png)
 
+
+
+# California Linux: DeepSpaceNet,uptime, LEarning About Northrop
+[Documenting system uptime in Linux](https://www.redhat.com/en/blog/system-uptime-linux) @nasa-jpl @redhatofficial @cityoflosangeles @ajc [CourseWork](https://www.jpl.nasa.gov/go/parts-engineering-school/programs/curriculum/)
+<iframe src="https://archive.org/embed/screen-recording-2025-07-09-122807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Worldview Snapshots](https://wvs.earthdata.nasa.gov/?LAYERS=VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1,VIIRS_SNPP_Thermal_Anomalies_375m_Day,Reference_Features_15m&CRS=EPSG:4326&COORDINATES=-90.000000,-180.000000,90.000000,180.000000&FORMAT=image/jpeg&AUTOSCALE=TRUE&RESOLUTION=10km) 4 Ersi [ArcGis](https://firms.modaps.eosdis.nasa.gov/satellite-imagery/)
+
+[NASA
+Work Breakdown
+Structure (WBS)
+Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf)
+
+
+# What is Load Average in Linux?
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
+  ![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
+
+@nasa-jpl @podaac
+last night's flyover
+<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+https://novalauncher.com/
+D[ownload the latest Beta APK](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public)
+
+
+[Oaktown's 3.5.7 - Yeah Yeah Yeah (Video)](https://www.youtube.com/watch?v=Tu2xJR2yOUk)
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Oaktown%27s_357_-_Yeah_Yeah_Yeah_single_cover.jpg" alt="undefined"/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tu2xJR2yOUk?si=2EjUEK5ZaOIaU5_d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Yeah! Yeah! Yeah! (Oaktown's 357 song)](https://en.wikipedia.org/wiki/Yeah!_Yeah!_Yeah!_(Oaktown%27s_357_song)) [Wiki:TALK](https://en.wikipedia.org/wiki/Talk:Yeah!_Yeah!_Yeah!_(Oaktown%27s_357_song))
+'
+<img width="318" height="314" alt="image" src="https://github.com/user-attachments/assets/2144cba4-7af1-49bf-a301-a3b9de9cd83f" />
+
+
+# California Linux: DeepSpaceNet,uptime, LEarning About Northrop
+[Documenting system uptime in Linux](https://www.redhat.com/en/blog/system-uptime-linux) @nasa-jpl @redhatofficial @cityoflosangeles @ajc [CourseWork](https://www.jpl.nasa.gov/go/parts-engineering-school/programs/curriculum/)
+<iframe src="https://archive.org/embed/screen-recording-2025-07-09-122807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[NASA
+Work Breakdown
+Structure (WBS)
+Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf)
+
+
+# What is Load Average in Linux?
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/load-average-in-linux) @digitalocean issa wordcloud, so i hope i find some goodies so i can comprehend how to make my [frameratessmoother](https://www.reddit.com/r/RetroArch/comments/ql83sr/how_can_i_tell_if_i_am_getting_full_speed/) [What Is Linux Average Load?](https://phoenixnap.com/kb/linux-average-load)
+  ![image](https://github.com/user-attachments/assets/fb534ba1-865c-4665-b154-3b6f20d6f26a)
+
+@nasa-jpl @podaac
+last night's flyover
+<iframe src="https://archive.org/embed/screen-20250708-213751" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+https://novalauncher.com/
+D[ownload the latest Beta APK](https://teslacoilapps.com/tesladirect/download.pl?packageName=com.teslacoilsw.launcher&betaType=public)
+
+
+```css
+
+.ic {
+  filter: contrast(200%); }
+```
+<style>
+  .ic {
+  filter: contrast(200%); }
+</style>  
+<img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" />
 
 
 
