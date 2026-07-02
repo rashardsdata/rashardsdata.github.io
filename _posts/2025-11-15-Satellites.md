@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rt_leap
 mermaid: true
 published: true
 title: Satellites
