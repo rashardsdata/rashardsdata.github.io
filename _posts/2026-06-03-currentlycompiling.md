@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rt_leap
 mermaid: true
 published: true
 title: currentlycompiling
@@ -51,7 +51,7 @@ github.com/mathjax/MathJax-docs _MathJax documentation. Beautiful math in all br
   <mtext>.</mtext>
 </math>
 
-
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4.0.0/tex-mml-chtml.js"></script>
 
 
 JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH) // [PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf) // 
