@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rt_leap
 title:  "smartphone_lab @nasa-jpl"
 date:   2026-03-16 15:38:06 -0800
 categories: android linux gaming smartphone_lab handheld
