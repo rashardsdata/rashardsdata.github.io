@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rt_leap
 mermaid: true
 published: true
 permalink: /Atlanta
@@ -12,6 +12,199 @@ date:   2026-02-06 14:51:06
 
 
 [comment]: <> (Emergency Files )
+
+
+## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
+_Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
+[A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k) // [Dance411 @disney @nasa-jpl](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
+
+
+
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE#########################VirtiservLatrice#####
+{% endhighlight %}
+
+# Detective Bottoms
+Hi I registerd Coral from some Opportuniteis @Nasa , @nasa-jpl i dont know how to follow up but im doing my part @foratlanta @fema @blackgirlscode ...
+
+
+
+Launch Your Future: NASA Internships Webinar
+Friday, July 31 2026 | 1–2PM ET [readMore](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007PYYj2AO/launch-your-future-nasa-internships-webinar-73126) /// 
+[APP-2277907 @doug-newman-nasa @blackgirlscode @nasa-pds](https://stemgateway.nasa.gov/s/profile/005SJ00000r8fSTYAY?tabset-da04f=6caf2)
+Accepted Offer
+Open Science Essentials
+Thursday, July 02, 2026 at 01:59 PM
+Research / [APP-2277907 @doug-newman-nasa @nasa-openscapes](https://stemgateway.nasa.gov/s/application/a03SJ00001HQf5FYAT/app2277907)
+[bubblegumpop01.tumblr.com](https://bubblegumpop01.tumblr.com/) // [keishaforgovernor.com](https://www.keishaforgovernor.com/)
+
+<img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/af44b2a9-e9c4-42e5-9874-0c7a9ef820ae" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d13a6eb0-4ce4-452a-a0b8-1ef77418d7f1" />
+<img alt="image" src="https://github.com/user-attachments/assets/4e54323f-278f-4dec-b3dc-9e121e6a4b3b" />
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bacf91be-fb6f-4134-be36-6e4bbc76da70" />
+<img  alt="image" src="https://github.com/user-attachments/assets/39585497-5b92-4177-bd5f-4743848d376d" />
+
+
+
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/f7810e8c-61f3-4c34-8ae6-f90db4c6ebb0" />
+
+
+```shell
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -q=mx keishaforgovernor.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+keishaforgovernor.com   MX preference = 10, mail exchanger = alt4.aspmx.l.google.com
+keishaforgovernor.com   MX preference = 1, mail exchanger = aspmx.l.google.com
+keishaforgovernor.com   MX preference = 5, mail exchanger = alt1.aspmx.l.google.com
+keishaforgovernor.com   MX preference = 5, mail exchanger = alt2.aspmx.l.google.com
+keishaforgovernor.com   MX preference = 10, mail exchanger = alt3.aspmx.l.google.com
+
+alt4.aspmx.l.google.com internet address = 173.194.42.27
+alt4.aspmx.l.google.com AAAA IPv6 address = 2607:f8b0:4001:c79::1b
+aspmx.l.google.com      internet address = 142.250.101.26
+aspmx.l.google.com      AAAA IPv6 address = 2607:f8b0:4023:c0b::1b
+alt1.aspmx.l.google.com internet address = 172.217.216.26
+alt1.aspmx.l.google.com AAAA IPv6 address = 2607:f8b0:4023:2803::1b
+alt2.aspmx.l.google.com internet address = 172.253.145.26
+alt2.aspmx.l.google.com AAAA IPv6 address = 2607:f8b0:4023:3003::1b
+alt3.aspmx.l.google.com internet address = 172.253.135.27
+alt3.aspmx.l.google.com AAAA IPv6 address = 2607:f8b0:4023:1015::1b
+
+C:\Users\PAC>nslookup -q=ns keishaforgovernor.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+keishaforgovernor.com   nameserver = ns77.domaincontrol.com
+keishaforgovernor.com   nameserver = ns78.domaincontrol.com
+
+ns77.domaincontrol.com  internet address = 97.74.108.49
+ns77.domaincontrol.com  AAAA IPv6 address = 2603:5:21c4::31
+ns78.domaincontrol.com  internet address = 173.201.76.49
+ns78.domaincontrol.com  AAAA IPv6 address = 2603:5:22c4::31
+
+C:\Users\PAC>tracert keishaforgovernor.com
+
+Tracing route to keishaforgovernor.com [76.76.21.21]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.160.1
+  2     *        *        *     Request timed out.
+  3  ^C
+C:\Users\PAC>
+C:\Users\PAC>
+```
+
+
+##  Atlanta's 14th Juneteenth parade marches through the city
+@cityoflosangeles @la-county-isd @blackgrlscode
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WdoY6REH3Ag?si=SuljQeTK0f4uFI6a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# DNS
+## Atlanta Municipal Audit @nasa
+
+
+@blackgirlscode
+@nasa-jpl @cisagov @foratlanta @deptofwar @fbicyber @atf-web @dhs-gov @whitehouse @la-county-isd @cityoflosangeles @nasa-pds @stateofcalifornia 
+
+```shell
+Setting up krb5 (1.22.2) ...
+Setting up dnsutils (9.20.23) ...
+
+~ $ host -a citycouncil.atlantaga.gov  Trying "citycouncil.atlantaga.gov"     ;;
+
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2793
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;citycouncil.atlantaga.gov.     IN    ANY
+
+;; ANSWER SECTION:
+citycouncil.atlantaga.gov. 10353 IN   CNAME    citycouncil.atlantaga.gov.granicusgovaccess.net.
+
+Received 104 bytes from 8.8.8.8#53 in 24 ms
+~ $ nslookup -type=mx citycouncil.atlantaga.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+citycouncil.atlantaga.gov       canonical name = citycouncil.atlantaga.gov.granicusgovaccess.net.
+citycouncil.atlantaga.gov.granicusgovaccess.net        canonical name = san-e2.granicusgovaccess.net.edgekey.net.
+san-e2.granicusgovaccess.net.edgekey.net       canonical name = e15752.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+        origin = n0dscb.akamaiedge.net
+        mail addr = hostmaster.akamai.com
+        serial = 1781549679
+        refresh = 1000
+        retry = 1000
+        expire = 1000
+        minimum = 1800
+
+~ $ nslookup -type=mx atlantaga.gov    Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov   mail exchanger = 0 mxb-003fa601.gslb.pphosted.com.
+atlantaga.gov   mail exchanger = 0 mxa-003fa601.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+~ $ nslookup -type=ns atlantaga.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov   nameserver = cmtu.mt.ns.els-gms.att.net.
+atlantaga.gov   nameserver = ns2.cl.bellsouth.net.
+atlantaga.gov   nameserver = cbru.br.ns.els-gms.att.net.
+atlantaga.gov   nameserver = ns3.cl.bellsouth.net.
+atlantaga.gov   nameserver = ns1.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+~ $ nslookup -type=ns fultoncountyga.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+fultoncountyga.gov      nameserver = ns1.cl.bellsouth.net.
+fultoncountyga.gov      nameserver = ns3.cl.bellsouth.net.
+fultoncountyga.gov      nameserver = ns2.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+~ $
+
+```
+
+
+![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg)
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint)
+
+
+
+
 
 ## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
 [Map-Link @ForAtlanta](https://worldview.earthdata.nasa.gov/?v=-91.79757830532274,31.178810718603835,-78.51720074653376,38.64902309542264&l=Reference_Labels_15m(hidden),Coastlines_15m(hidden,opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z)
@@ -282,68 +475,17 @@ References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
 
 
 
+![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-diving-header-june-12-6753651837111094.3-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-diving-header-june-12-6753651837111094.3-2xa.gif) 
 
+![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-curler-623-6753651837111123.2-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-curler-623-6753651837111123.2-2xa.gif)
 
+![https://www.google.com/logos/doodles/2026/world-cup-2026-knee-slide-6753651837111127-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-knee-slide-6753651837111127-2xa.gif)
 
 
+![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-penalty-kick-72-6753651837111290.2-law.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-penalty-kick-72-6753651837111290.2-law.gif)
 
 
 
+![https://www.gstatic.com/marketing-cms/1a/cb/31786a15459b9820c1e56c2167b4/world-cup-2026-the-art-of-the-diving-header-612-6753651837111094-3-lsg2x.png](https://www.gstatic.com/marketing-cms/1a/cb/31786a15459b9820c1e56c2167b4/world-cup-2026-the-art-of-the-diving-header-612-6753651837111094-3-lsg2x.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![https://www.gstatic.com/marketing-cms/76/98/95a17d6a4cc3a343b0d31e49829d/world-cup-2026-the-art-of-the-curler-623-6753651837111123-lsg2x.png](https://www.gstatic.com/marketing-cms/76/98/95a17d6a4cc3a343b0d31e49829d/world-cup-2026-the-art-of-the-curler-623-6753651837111123-lsg2x.png)
